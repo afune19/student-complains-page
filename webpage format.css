@@ -1,0 +1,36 @@
+.heading{
+			text-align: center;
+			font-family:times new roman;
+			font-size: 14Px;
+			text-decoration: none;
+			color: black;
+			background: powderblue;
+		}
+		.box1{
+			height: 500px;
+			width: 350px;
+			float: right;
+			padding: 10px;
+			margin: auto;
+			font-style: times-new roman;
+			background: orange;
+			border-color: black;
+		}
+		.box_logo{
+			height: 500px;
+			width: 350px;
+			padding: 10px;
+			margin: auto;
+			font-style: times-new roman;
+			font-size: 20;
+			background: aliceblue;
+		}		
+		.box{
+			height: 500px;
+			width: 350px;
+			float: left;
+			padding: 10px;
+			margin: auto;
+			background: skyblue;
+			border-color: black;	
+		}
